@@ -1,4 +1,4 @@
-package main.java.com.cloudnautic.app;
+package com.cloudnautic.app;
 
 public class App {
     public static void main(String[] args) {
